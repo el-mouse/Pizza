@@ -1,1 +1,1 @@
-https://el-mouse.github.io/pizza/
+https://el-mouse.github.io/Pizza/
